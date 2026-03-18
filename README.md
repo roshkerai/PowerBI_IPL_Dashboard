@@ -48,7 +48,8 @@ This dashboard helps to:
 ---
 
 ## 🛠 Tools Used
-- Power BI  
+- Power BI
+- SQL (for importing CSV data into Power BI)
 - Data Modeling & DAX  
 - Interactive Visualizations  
 
