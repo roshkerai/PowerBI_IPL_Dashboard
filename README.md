@@ -1,5 +1,3 @@
-# PowerBI IPL Dashboard
-
 # 🏏 IPL Analysis Dashboard (2008–2022)
 
 ## Overview
