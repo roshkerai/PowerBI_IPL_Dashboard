@@ -42,7 +42,7 @@ This repository features an interactive **Power BI dashboard** analysing IPL pla
 
 Building on the base dashboard, I added an independent analysis page using custom DAX measures, covering all 950 matches and 225,000+ deliveries from 2008 to 2022.
 
-![Toss and Scoring Insights](toss_scoring_insights.png)
+![Toss and Scoring Insights](Toss & Scoring Insights.png)
 
 ### Key Findings
 
